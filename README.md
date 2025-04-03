@@ -5,7 +5,7 @@ O projeto é baseado na linguagem python, sub-dividos em exercicios todos desenv
 
 ## Estrutura
 
-O projeto aonde existe a pasta AULAS aonde é localizado todos os aulas numerado em ordem crescente.
+O projeto aonde existe a pasta src/AULAS aonde é localizado todos os aulas numerado em ordem crescente.
 Cada aula tem a explicação do conteúdo, previamente antes de exercicio pratico.
 
 
